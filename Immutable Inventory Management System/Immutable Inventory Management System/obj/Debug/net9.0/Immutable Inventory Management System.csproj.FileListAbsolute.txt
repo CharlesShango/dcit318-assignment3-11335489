@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\bin\Debug\net9.0\Immutable Inventory Management System.exe
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\bin\Debug\net9.0\Immutable Inventory Management System.deps.json
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\bin\Debug\net9.0\Immutable Inventory Management System.runtimeconfig.json
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\bin\Debug\net9.0\Immutable Inventory Management System.dll
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\bin\Debug\net9.0\Immutable Inventory Management System.pdb
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\obj\Debug\net9.0\Immutable Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\obj\Debug\net9.0\Immutable Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\obj\Debug\net9.0\Immutable Inventory Management System.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\obj\Debug\net9.0\Immutable Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\obj\Debug\net9.0\Immutable Inventory Management System.dll
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\obj\Debug\net9.0\refint\Immutable Inventory Management System.dll
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\obj\Debug\net9.0\Immutable Inventory Management System.pdb
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\obj\Debug\net9.0\Immutable Inventory Management System.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Immutable Inventory Management System\Immutable Inventory Management System\obj\Debug\net9.0\ref\Immutable Inventory Management System.dll

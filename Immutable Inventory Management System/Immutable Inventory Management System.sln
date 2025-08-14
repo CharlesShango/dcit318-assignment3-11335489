@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Immutable Inventory Management System", "Immutable Inventory Management System\Immutable Inventory Management System.csproj", "{A887C7E1-6198-4AD9-9248-F6E35FC2E72C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A887C7E1-6198-4AD9-9248-F6E35FC2E72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A887C7E1-6198-4AD9-9248-F6E35FC2E72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A887C7E1-6198-4AD9-9248-F6E35FC2E72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A887C7E1-6198-4AD9-9248-F6E35FC2E72C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B640F24-0BFA-4999-BAD1-1EF6B7D97612}
+	EndGlobalSection
+EndGlobal
