@@ -1,0 +1,8 @@
+﻿101, Alice Smith, 84
+102, Bob Johnson, 72
+103, Charlie Brown, 91
+104, Diana Prince, 65
+105, , 88
+106, Eve Adams, ninety-five
+107, Frank Miller
+108, Grace Hopper, 77
